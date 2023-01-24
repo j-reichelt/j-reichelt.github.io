@@ -1,60 +1,97 @@
-
-
 body{
-  background-color: powderblue;
-  font-family: georgia
+  background-color:black;
+  color: white;
+  font-family: calibri;
   margin: 10% 20%; }
 
 div.name{
-  color: black;
+  color: white;
   font-size: 20px;
-  font-family: helvetica
-  font-weight: bold;}
-
+  font-family: helvetica}
 
 h1{
-   color:black;
+   color:white;
    font-size: 24px;
-  font-family: arial, times new roman, calibri;}
+   font-family: arial, times new roman, calibri;
+   text-transform: uppercase;}
 
 img.animated-gif{
- height: auto;
-  width: auto;
-}
+ height: 200px;
+  width: 250px;}
 
 div.objectiveheader{
+  width: 400px;
   text-align: center;
-  background-color: orange;
-}
+  background-color: green;}
+
+div.objective{width: 400px}
+
+div.header {
+  text-align: center;
+  background-color:orange;}
 
 div.skillsheader{
+  width: 400px;
   text-align: center;
-  background-color: orange;
-}
+  background-color: green;
+  text-transform: uppercase;}
+
+div.skills{width: 400px
+  text-align: center;}
 
 div.certsheader{
+  width: 400px;
   text-align: center;
-  background-color: orange;
-}
+  background-color: green;
+  text-transform: uppercase;}
+
+ul.certsandawards{
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  width: 350px;
+  text-align: left;
+  padding-left: 15px;}
 
 div.educationheader{
+  width: 400px;
   text-align: center;
-  background-color: orange;
-  
-}
+  background-color: green;
+  text-transform: uppercase;}
+
+div.education {
+  text-align: center;
+  background-color:orange;}
+
+div.educationleadership{
+  columns: 1;
+  -webkit-columns: 1;
+  -moz-columns: 1;
+  width: 400px;
+  text-align: left;}
+
 
 div.experienceheader{
   text-align: center;
-  background-color: orange;
-}
+  background-color: green;
+  text-transform: uppercase;}
 
-ul.certsandawards {
-  columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;}
+ul.che{
+  width: 400px;
+  text-align: left;}
 
-div.header {
-  background-color:orange;}
+ul.pmc{
+  width: 400px;
+  text-align: left;}
 
-div.education {
-  background-color:orange;}
+ul.sts{width: 400px;
+  text-align: left;}
+
+ul.srs{width: 400px;
+text-align: left;}
+
+ul.dta{width: 400px;
+text-align: left;}
+
+ul.rss{width: 400px;
+text-align: left;}
