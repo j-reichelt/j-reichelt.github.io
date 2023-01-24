@@ -17,7 +17,8 @@ h1{
 
 img.animated-gif{
  height: 200px;
-  width: 250px;}
+  width: 250px;
+  padding-left: 150px;}
 
 div.objectiveheader{
   width: 400px;
